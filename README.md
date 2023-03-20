@@ -1,6 +1,6 @@
 # React Small Business Website
 
-# react-gardening-website.vercel.app
+# https://react-gardening-website.vercel.app
 
 Needs Improvements, will update soon.
 
